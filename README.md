@@ -16,7 +16,7 @@ You can now read the data on any DashCraft track!
 
 ### **HOW TO ADD AS AN EXTENSION:**
 
-Go to https://github.com/ididitrizz/DashCraft_JSON_Download and click "Code":
+Go to https://github.com/TheMoonIsCheese/DashCraft_JSON_Download and click "Code":
 <img width="1365" height="596" alt="Screenshot 2026-04-07 10 12 55 AM" src="https://github.com/user-attachments/assets/5525c8fb-f658-4ef5-b15e-0079abd138f1" />
 Then press "Download ZIP":
 <img width="1365" height="596" alt="Screenshot 2026-04-07 10 15 01 AM" src="https://github.com/user-attachments/assets/22edc61c-d7c8-4914-ba34-b18bc37c70d0" />
@@ -33,7 +33,7 @@ The extension should appear and you should be ready to go!
 
 ### **READING THE JSON:**
 
-To better understand what the JSON tells you, here is what each part of the JSON means. (NOTE: To get info on what the piece IDs correspond to, check out this page: https://ididitrizz.github.io/DashCraft_Piece_IDs/)
+To better understand what the JSON tells you, here is what each part of the JSON means. (NOTE: To get info on what the piece IDs correspond to, check out this page: https://themoonischeese.github.io/DashCraft_Piece_IDs/)
 
 "_id": The track identifier, what is at the end of track links to tell the game what track is being loaded. <br>
 "trackPieces": The list of pieces that are in the track. <br>
@@ -54,6 +54,6 @@ To better understand what the JSON tells you, here is what each part of the JSON
 
 That should cover the JSON information. I hope that the way in which I wrote the data made sense, and if it didn't, you can reach out to me.
 
-If any of this doesn't work, feel free to reach out to me in https://github.com/ididitrizz/DashCraft_JSON_Download/issues and I will try to respond as soon as possible.
-If you like this tool, please share it with friends and follow me on DashCraft (https://dashcraft.io?u=68f74a06b308c1dc2655c54c).
+If any of this doesn't work, feel free to reach out to me in https://github.com/TheMoonIsCheese/DashCraft_JSON_Download/issues and I will try to respond as soon as possible.
+If you like this tool, please share it with friends and follow me on DashCraft (https://dashcraft.io?u=68d1ac9cd0bace192174937f).
 Thank you for using my DashCraft_JSON_Download tool!
